@@ -7,7 +7,7 @@
     "author": "Microsoft",
     "scripts": {
         "start": "node index.js",
-        "dev": "nodemon"
+        "dev": "nodemon" // testing setup
     },
     "dependencies": {
         "ejs": "^3.0.1",
